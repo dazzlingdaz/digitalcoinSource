@@ -14,7 +14,7 @@ What It Is:
 -A means to store value
 -A fast method to send and receive money
 -Transparent and open source
--Fair
+-Anonymous
 
 Transaction Specifications:
 -Irreversible value transfer
@@ -29,26 +29,6 @@ Technical Specifications:
     Difficulty: Starts at 0.00024414 – Retargets every 6 hours – It will take 6-8 difficulty adjustments (or ~13000 blocks) to reach desired difficulty of 1. It retargets quickly to adjust to the environment, so stability should not be much of an issue. Miners should also find the system adjusts fast enough to be up to date, but not so fast as to make the environment unpredictable and unstable.
     Reward: 20 coins per block, halved every 3 years – Consistent rewards encourage miners to support the network long term. Loyalty is rewarded. This also reduces volatility by setting the foundation on a stable path. Due to the fair launch policy, block rewards will grow in value until they reach the 20 coins per block reward. More details below.
     Maximum coins: 200,000,000
-
-Fair Launch
-Block
-1080 –  Difficulty up until here is 0.00024414. Block reward of 2.
-
-2160 –  Difficulty up until here is 0.000061035. Block reward of 1.
-
-3240 –  Difficulty up until here is 0.00024414. Block reward of 2.
-
-4320 –  Difficulty up until here is 0.00097656. Block reward of 5.
-
-5400 –  Difficulty up until here is 0.00390624. Block reward of 8
-
-6480 –  Difficulty up until here is 0.01562496. Block reward of 11.
-
-7560 –  Difficulty up until here is 0.06249984. Block reward of 14
-
-8640 –  Difficulty up until here is 0.24999936. Block reward of 17.
-
-Difficulty after that is 1, at which point regular reward of 20 coins per block takes hold. The purpose of this is to give a period of time for miners to know about digitalcoin before others can mine too much of it and cause hoarding.
 
 bitcointalk thread: https://bitcointalk.org/index.php?topic=209508.0
 
